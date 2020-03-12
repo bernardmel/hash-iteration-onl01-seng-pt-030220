@@ -11,7 +11,7 @@ def happy_birthday(birthday_kids)
   end
 end
 
-def age_appropriate_birthday)(birthday)
+def age_appropriate_birthday(birthday)
   age_appropriate_birthday.each do |kids_name, age|
     if "age" <= 12;
       puts "Happ Birthday #{kids_name}! You are now #{age} yers old!"
